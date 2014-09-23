@@ -1,0 +1,36 @@
+# vim temporary files
+*~
+.*.swp
+
+# library and object files
+*.o
+lib*.a
+
+# python files
+*.pyc
+
+# makefile
+/Makefile
+
+# Generated binaries.
+/visualizePointsAndCameras
+
+# test binaries
+/*Test
+
+# mac debug folder
+*.dSYM
+.DS_Store
+
+# cscope files and tags
+cscope.files
+cscope.out
+
+# Dependency file folder.
+.deps
+
+# Copied third party include files and library files.
+/ThirdParty/include
+/ThirdParty/lib
+/ThirdParty/bin
+/ThirdParty/share

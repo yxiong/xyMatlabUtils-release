@@ -1,0 +1,26 @@
+Sep 23, 2014 (v0.0.8) ---
+  Add MexUtils, Utils and BoundingBox.
+
+May 11, 2014 (v0.0.7) ---
+  Rename NLLSBox to NLOBox and add general optimization.
+
+Feb 08, 2014 (v0.0.6) ---
+  Update PSBox.
+
+Feb 06, 2014 (v0.0.5) ---
+  Update NLLSBox.
+
+Jan 27, 2014 (v0.0.4) ---
+  DfGBox and updated PSBox.
+
+Jan 25, 2014 (v0.0.3) ---
+  PSBox.
+
+Jan 22, 2014 (v0.0.2.1) ---
+  Minor update, more robust NLLSBox.
+
+Jan 21, 2014 (v0.0.2) ---
+  NLLSBox.
+
+Jan 19, 2014 (v0.0.1) ---
+  Infrastructure and SHBox.

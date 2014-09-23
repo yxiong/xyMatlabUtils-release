@@ -1,0 +1,22 @@
+*.o
+*.lo
+.DS_Store
+.deps
+.libs
+Makefile
+config.log
+config.status
+jconfig.h
+libjpeg.la
+libtool
+stamp-h1
+
+# Binary files.
+cjpeg
+djpeg
+jpegtran
+rdjpgcom
+wrjpgcom
+
+# Test output.
+testout*

@@ -1,0 +1,9 @@
+# One flag in a line. Comments will be ignored.
+--double_test=1e20                # More comments.
+--int_test=0xff                   # --ignored=blabla
+
+# Blank line is allowed.
+
+--bool_test=False
+--string_test=foobar              # Space not supported yet.
+
